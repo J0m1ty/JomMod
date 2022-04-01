@@ -53,7 +53,7 @@ public class JomPlugin extends Plugin {
             this.mapvotes.clear();
             Call.sendMessage("[cyan]MAP SKIPPER[]: [green] vote passed, skipping the map...");
             Events.fire(new GameOverEvent(Team.derelict));
-        });
+        }); 
 
         handler.<Player>register("js", "<code...>", "Execute JavaScript code.", (args, player) -> {
             if (player.admin) {
