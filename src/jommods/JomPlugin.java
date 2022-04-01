@@ -3,6 +3,7 @@ package jommods;
 import arc.*;
 import arc.util.*;
 import mindustry.mod.*;
+import mindustry.mod.Mods;
 import mindustry.Vars;
 import mindustry.gen.*;
 import mindustry.game.*;
@@ -14,6 +15,7 @@ import mindustry.entities.*;
 import mindustry.net.Administration.*;
 import mindustry.world.blocks.storage.*;
 
+import static mindustry.Vars.*;
 
 import java.util.HashSet;
 
