@@ -1,7 +1,7 @@
 {
   "name": "JomMod",
   "author": "Jomity",
-  "main": "dir.JomPlugin",
+  "main": "jommods.JomPlugin",
   "description": "A plugin for Jomity's server.",
   "version": 1.0
 }
