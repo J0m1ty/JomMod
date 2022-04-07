@@ -1,15 +1,12 @@
-### Setup
+### Description of Mod
+`Allows admins to use /js command in-game`
 
-Clone this repository first.
-To edit the plugin display name and other data, take a look at `plugin.json`.
-Edit the name of the project itself by going into `settings.gradle`.
+`Adds /skip commands to skip the current map`
 
-### Basic Usage
+`Adds /skip command to skip the current map`
 
-See `src/example/ExamplePlugin.java` for some basic commands and event handlers.  
-Every main plugin class must extend `Plugin`. Make sure that `plugin.json` points to the correct main plugin class.
+`Adds /whisper command to tell another player something secretly`
 
-Please note that the plugin system is in beta, and as such is subject to changes.
 
 ### Building a Jar
 
