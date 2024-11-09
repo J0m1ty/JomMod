@@ -1,11 +1,9 @@
 ### Description of Mod
-`Allows admins to use /js command in-game`
+Allows admins to use `/js` command in-game
 
-`Adds /skip commands to skip the current map`
+Adds `/skip` commands to skip the current map
 
-`Adds /skip command to skip the current map`
-
-`Adds /whisper command to tell another player something secretly`
+Adds `/whisper` command to tell another player something secretly
 
 
 ### Building a Jar
